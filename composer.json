@@ -1,0 +1,13 @@
+{
+    "name": "tildbj/challenges",
+    "authors": [
+        {
+            "name": "Dennis Römmich",
+            "email": "dennis@roemmich.eu"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "symfony/var-dumper": "^4.0"
+    }
+}
